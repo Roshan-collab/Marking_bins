@@ -1,0 +1,1 @@
+web: gunicorn Marking_bin:game
